@@ -1,4 +1,4 @@
-# i1-go-starter-kit: GoFiber-Driven MVC Innovation: Auto-Migrate, Auth-Protect, & CLI Magic
+# i1-go-starter-kit: GoFiber-Based MVC Innovation: Auto-Migrate, Auth-Protect, & CLI Magic
 
 i1-go-starter-kit adalah sebuah proyek inovatif yang memanfaatkan kekuatan GoFiber, sebuah kerangka kerja mutakhir untuk membangun aplikasi web yang tangguh. Proyek ini fokus pada penyediaan arsitektur MVC (Model-View-Controller) yang komprehensif, menyederhanakan proses pengembangan dengan migrasi database otomatis, mekanisme otentikasi yang diperkuat, dan keunggulan dari antarmuka baris perintah (Command Line Interface/CLI) untuk meningkatkan produktivitas.
 
